@@ -1,2 +1,2 @@
 # javascript-exercises
-Javascript Programming concepts
+Javascript Programming concepts and exercises
